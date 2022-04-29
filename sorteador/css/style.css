@@ -1,0 +1,87 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body
+{
+    background-color: #313536;
+    
+}
+
+div
+{
+    background-color: #FFFFFF;
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+div h2 
+{
+    text-align: center;
+    color: #383f46;
+    font-size: 15px;  
+}
+
+
+div h3
+{
+    text-align: center;
+    color: #383f46;
+}
+
+div input[type = number]
+{
+    width: 20%;
+    height: 45px;
+    border: 1px solid rgb(0, 0, 0);
+    padding-left: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+}
+
+div button
+{
+    width: 25%;
+    height: 45px;
+    right: 25px;
+    cursor: pointer;
+    background-color: #C3CAD2;
+    color: black;
+    border: 0;
+    border-radius: 20px;
+    transition: 1s;
+    position: relative;
+    margin-left: 15%;
+}
+.resultado
+{
+    background-color: #FFFFFF;
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    
+}
+.numero h3
+{
+    text-align: center;
+    color: #383f46;
+}
+.numero h3
+{
+    text-align: center;
+    color: #383f46;
+}
+
+.numero h1
+{
+    text-align: center;
+    color: #cea126;
+}
